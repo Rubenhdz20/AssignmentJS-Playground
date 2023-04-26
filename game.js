@@ -1,4 +1,10 @@
-// This code defines a 3x3 Tic Tac Toe board as an array of arrays, and uses console prompts to get user input for each turn. The printBoard() function prints the current state of the board to the console, and the checkWin(player) function checks if a player has won the game. The playTurn(player) function plays a single turn for a given player, and the playGame() function loops through turns until a win or tie occurs. The game is started by calling playGame().
+// This code defines a 3x3 Tic Tac Toe board as an array of arrays, and uses console prompts to get user input for each turn. 
+
+// The printBoard() function prints the current state of the board to the console, and the checkWin(player) function checks if a player has won the game. 
+
+// The playTurn(player) function plays a single turn for a given player, and the playGame() function loops through turns until a win or tie occurs. 
+
+// The game is started by calling playGame().
 
 // // Note that this is a very basic implementation and does not include error checking or input validation beyond checking for valid moves on the board. You can customize
 
